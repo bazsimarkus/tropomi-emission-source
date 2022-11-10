@@ -1,0 +1,17 @@
+name,date,method
+sangay,2021-08-15,radius_100km
+sangay,2021-08-15,floodfill
+sangay,2021-08-15,floodfill_withwind
+sangay,2021-08-15,dbscan
+sangay,2021-08-15,dbscan_withwind
+sangay,2021-08-15,reverse_trajectory_dbscan
+sangay,2021-08-15,multi_dbscan
+sangay,2021-08-15,multi_reverse_trajectory_dbscan
+etna,2021-06-17,radius_100km
+etna,2021-06-17,floodfill
+etna,2021-06-17,floodfill_withwind
+etna,2021-06-17,dbscan
+etna,2021-06-17,dbscan_withwind
+etna,2021-06-17,reverse_trajectory_dbscan
+etna,2021-06-17,multi_dbscan
+etna,2021-06-17,multi_reverse_trajectory_dbscan

@@ -1,0 +1,87 @@
+"id","fullname","name","lat","lon","elevation"
+1,"Stromboli","stromboli",38.789,15.213,924
+2,"Vulcano","vulcano",38.404,14.962,500
+3,"Etna","etna",37.748,14.999,3295
+4,"Erta Ale","ertaale",13.6,40.67,613
+5,"Lengai, Ol Doinyo","lengaioldoinyo",-2.764,35.914,2962
+6,"Nyamuragira","nyamuragira",-1.408,29.2,3058
+7,"Nyiragongo","nyiragongo",-1.52,29.25,3470
+8,"Fournaise, Piton de la","pitonfournaise",-21.244,55.708,2632
+9,"Manam","manam",-4.08,145.037,1807
+10,"Langila","langila",-5.525,148.42,1330
+11,"Rabaul","rabaul",-4.2371,152.209,688
+12,"Bagana","bagana",-6.14,155.195,1855
+13,"Aoba","aoba",-15.3904,167.829,1496
+14,"Ambrym","ambrym",-16.25,168.12,1334
+15,"Lopevi","lopevi",-16.507,168.346,1413
+16,"Yasur","yasur",-19.53,169.442,361
+17,"Barren Island","barrenisland",12.278,93.858,354
+18,"Sinabung","sinabung",3.1706,98.3915,2460
+19,"Kerinci","kerinci",-1.697,101.264,3800
+20,"Krakatau","krakatau",-6.102,105.423,813
+21,"Merapi","merapi",-7.542,110.442,2968
+22,"Semeru","semeru",-8.108,112.92,3657
+23,"Raung","raung",-8.125,114.042,3260
+24,"Ijen","ijen",-8.058,114.242,2769
+25,"Lewotolo","lewotolo",-8.272,123.505,1423
+26,"Karangetang","karangetang",2.78,125.4,1797
+27,"Dukono","dukono",1.68,127.88,1229
+28,"Ibu","ibu",1.49421,127.634,1325
+29,"Mayon","mayon",13.257,123.685,2462
+30,"Taal","taal",14.013,120.993,311
+31,"Aira (Sakurajima)","aira",31.5794,130.659,1117
+32,"Asosan","asosan",32.884,131.104,1592
+33,"Sarychev Peak","sarychevpeak",48.092,153.2,1496
+34,"Bezymianny","bezymianny",55.972,160.595,2882
+35,"Klyuchevskoy","klyuchevskoy",56.056,160.642,4754
+36,"Sheveluch","sheveluch",56.653,161.36,3283
+37,"Kilauea","kilauea10",19.421,-155.287,1222
+38,"Colima","colima",19.514,-103.62,3850
+39,"Popocatépetl","popocatepetl",19.023,-98.622,5426
+40,"Santa María","santamaria",14.7391,-91.5679,3745
+41,"Fuego","fuego",14.473,-90.88,3763
+42,"Pacaya","pacaya",14.382,-90.601,2569
+43,"San Miguel","sanmiguel",13.434,-88.269,2130
+44,"San Cristóbal","sancristobal",12.702,-87.004,1745
+45,"Telica","telica",12.605,-86.841,1036
+46,"Momotombo","momotombo",12.423,-86.539,1270
+47,"Masaya","masaya",11.9841,-86.1686,635
+48,"Rincón de la Vieja","rinconvieja",10.83,-85.324,1916
+49,"Poás","poas",10.2,-84.233,2708
+50,"Turrialba","turrialba",10.025,-83.767,3340
+51,"Ruiz, Nevado del","nevadoruiz",4.892,-75.319,5279
+52,"Huila, Nevado del","nevadohuila",2.93,-76.03,5364
+53,"Chiles-Cerro Negro","chilescerronegro",0.817,-77.938,4698
+54,"Reventador","reventador",-0.077,-77.656,3562
+55,"Sangay","sangay",-2.005,-78.341,5286
+56,"Sabancaya","sabancaya",-15.787,-71.857,5960
+57,"Ubinas","ubinas",-16.355,-70.903,5672
+58,"Láscar","lascar",-23.3632,-67.7318,5592
+59,"Planchón-Peteroa","planchonpeteroa",-35.223,-70.568,3977
+60,"Chillán, Nevados de","nevadoschillan",-36.863,-71.377,3212
+61,"Copahue","copahue",-37.856,-71.183,2953
+62,"Villarrica","villarrica",-39.4206,-71.9396,2847
+63,"Soufrière Hills","soufrierehills",16.72,-62.18,915
+64,"Soufrière St. Vincent","soufrierestvincent",13.3345,-61.182,1220
+65,"Krýsuvík","krysuvik",63.8898,-22.2726,360
+66,"La Palma","lapalma",28.57,-17.83,2426
+67,"Pinatubo","pinatubo",15.1383,120.3499,1486
+68,"Rahat, Harrat","rahatharrat",23.08,39.78,1744
+69,"Birk, Harrat al","birkharratal",18.37,41.63,587
+70,"Ulawun","ulawun",-5.05,151.33,2334
+71,"Gaua","gaua",-14.27,167.5,797
+72,"Kanlaon","kanlaon",10.412,123.132,2435
+73,"Suwanosejima","suwanosejima",29.638,129.714,796
+74,"Tokachidake","tokachidake",43.418,142.686,2077
+75,"Chikurachki","chikurachki",50.324,155.461,1781
+76,"Ebeko","ebeko",50.686,156.014,1103
+77,"Mutnovsky","mutnovsky",52.449,158.196,2288
+78,"Semisopochnoi","semisopochnoi",51.93,179.58,1221
+79,"Karymsky","karymsky",54.049,159.443,1513
+80,"Bulusan","bulusan",12.77,124.05,1565
+81,"Fernandina","fernandina",-0.37,-91.55,1476
+82,"Hunga Tonga-Hunga","hungatonga",-20.57,-175.38,149
+83,"Kadovar","kadovar",-3.6166,144.6166,365
+84,"Puracé","purace",2.32,-76.4,4646
+85,"São Jorge","saojorge",38.65,-28.08,1053
+86,"Wolf","wolf",0.02,-91.35,1710
